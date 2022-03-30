@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![TR-NP7's trophy](https://github-profile-trophy.vercel.app/?username=TR-NP7&theme=vue&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
-[![TR-NP7's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue)
+![TR-NP7's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue)
