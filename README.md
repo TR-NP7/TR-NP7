@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![TR-NP7's steak stats](https://github-readme-stats.vercel.app/api?username=TR-NP7&count_private=true&show_icons=true&theme=vue)
 
-[![TR-NP7's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TR-NP7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![TR-NP7's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TR-NP7&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 ![TR-NP7's trophy](https://github-profile-trophy.vercel.app/?username=TR-NP7&theme=vue&rank=SECRET,SSS,SS,S,AAA,AA,A)
