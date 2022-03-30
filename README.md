@@ -1,4 +1,4 @@
-### Hi there 👋
+### Very pleased to meet you here!! I'm Tar and I hope you take it easy. 😊
 
 <!--
 **TR-NP7/TR-NP7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![TR-NP7's github stats](https://github-readme-streak-stats.herokuapp.com/?user=nuttavadeepj&count_private=true&theme=nightowl)
+
+![TR-NP7's steak stats](https://github-readme-stats.vercel.app/api?username=nuttavadeepj&count_private=true&show_icons=true&theme=nightowl)
+
+![TR-NP7's trophy](https://github-profile-trophy.vercel.app/?username=nuttavadeepj&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A)
